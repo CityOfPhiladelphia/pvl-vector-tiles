@@ -1,5 +1,4 @@
 
-
 let pictApiKey, pictSecretKey;
 const host = window.location.hostname;
 if (host === 'atlas-dev.phila.gov.s3-website-us-east-1.amazonaws.com') {
@@ -24,7 +23,7 @@ viewerboard({
   customComps,
   // initialTiledOverlays: ['fullMarathon'],
   app: {
-    title: 'Vector Tile Demo',
+    title: 'PVL Vector Tiles Demo',
     tagLine: '',
   },
   // baseConfig: BASE_CONFIG_URL,
