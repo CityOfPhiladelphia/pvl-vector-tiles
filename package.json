@@ -1,0 +1,25 @@
+{
+  "name": "pvl-vector-tiles",
+  "description": "A Vue.js component for data-rich web mapping",
+  "version": "1.0.7",
+  "author": "City of Philadelphia <maps@phila.gov>",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "dev-build": "vue-cli-service build --mode development"
+  },
+  "dependencies": {
+    "@fortawesome/vue-fontawesome": "^0.1.9",
+    "@phila/viewerboard": "https://github.com/CityOfPhiladelphia/viewerboard#cb2abefce1cd0fbef4f47798461fb0e0bd19c85f",
+    "vue": "2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.2",
+    "@vue/cli-service": "^4.1.2",
+    "babel-runtime": "^6.26.0",
+    "node-sass": "^4.13.0",
+    "sass": "^1.24.2",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "2.6.10"
+  }
+}

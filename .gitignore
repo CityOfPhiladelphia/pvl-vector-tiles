@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+dist/
+
+# local env files
+.env.local
+.env.*.local
+.env
+
+npm-debug.log
+yarn-error.log
+src/config.js
+src/util/streetsmart.js
+
+examples/atlas/main_es6.js
+
+sh.exe.stackdump
