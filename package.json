@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@fortawesome/vue-fontawesome": "^0.1.9",
-    "@phila/viewerboard": "https://github.com/CityOfPhiladelphia/viewerboard#cb2abefce1cd0fbef4f47798461fb0e0bd19c85f",
+    "@phila/viewerboard": "https://github.com/CityOfPhiladelphia/viewerboard#8020a987ed53a51fb6e5eeb2bf4cfbf0a08b1575",
     "vue": "2.6.10"
   },
   "devDependencies": {
